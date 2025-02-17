@@ -8,7 +8,6 @@ def algorithm(credit_card):
     flag = False
 
     for i in range(lenght):
-        #print(credit_card[i])
         num = credit_card[i]
 
         if flag:
@@ -21,12 +20,9 @@ def algorithm(credit_card):
         flag = not flag
     
     if sum % 10 != 0: # If not, print "INVALID"
-        #print("FalSe")
         return False
     
     else: # If yes, returne True
-        #print("VALID")
-        #print("tRUE")
         return True
     
     
