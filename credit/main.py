@@ -1,9 +1,10 @@
-# 
-# This code is for detection if a credit card number is valid or not
-# and also to determine the type of credit card
-# This code is an adaptation of the exercise "credit" from CS50x, Harvard University
-# The original code was written in C, and I adapted it to Python
-#
+""" 
+ This code is for detection if a credit card number is valid or not
+ and also to determine the type of credit card
+ This code is an adaptation of the exercise "credit" from CS50x, Harvard University
+ The original code was written in C, and I adapted it to Python
+
+"""
 
 # Code by Rafael Duarte
 

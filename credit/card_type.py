@@ -1,5 +1,14 @@
 def card_type(credit_card):
-# Check the type of credit card
+    
+    """_summary_
+    This code checks the type of credit card based on the first digits of the number
+    and the number of digits
+
+    Args:
+        credit_card (str): The input of the credit card number
+        in the code, the input is converted to a list of integers
+    """
+
     credit_card = list(map(int, str(credit_card)))
     # If the number starts with 4 and has 13 or 16 digits, print "VISA"
     if credit_card[0] == 4 and (len(credit_card) == 13 or len(credit_card) == 16):
