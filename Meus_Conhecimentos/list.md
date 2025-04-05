@@ -4,7 +4,7 @@
 
 ## Escrever aqui as anotações…
 
-As listas são uma estrutura de dados fundamental em Python, permitindo armazenar coleções de itens em uma única variável. Aqui está um resumo dos principais métodos que você pode usar para manipular listas:
+As listas são uma estrutura de dados fundamental em Python, permitindo armazenar coleções de itens em uma única variável. 
 
 | **Método** | **Descrição** | **Exemplo** |
 | --- | --- | --- |
